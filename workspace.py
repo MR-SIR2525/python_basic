@@ -10,3 +10,7 @@ for i in range(12, 16):
 # python -m pip install --user virtualenv
 # python -m virtualenv env
 # .\env\Scripts\activate
+
+
+# ----- saving requirements.txt syntax ------
+# pip freeze > requirements.txt
